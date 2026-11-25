@@ -100,3 +100,18 @@ I'm particularly interested in understanding software beyond the application lay
 <p align="center">
   <i>Always open to connecting, collaborating, and exploring new opportunities.</i>
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/UjjawalKr-01/UjjawalKr-01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/UjjawalKr-01/UjjawalKr-01/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/UjjawalKr-01/UjjawalKr-01/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
