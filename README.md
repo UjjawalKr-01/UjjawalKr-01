@@ -3,7 +3,7 @@
 </p>
 
 ---
-# Hi, I'm Ujjawal Kumar 👋
+#  👋 About Me
 
 ### Aspiring Software Engineer | Systems & Software Development
 
