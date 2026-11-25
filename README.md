@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Ujjawal Kumar - Aspiring Software Engineer"/>
+</p>
+
+---
 # Hi, I'm Ujjawal Kumar 👋
 
 ### Aspiring Software Engineer | Systems & Software Development
