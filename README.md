@@ -128,14 +128,6 @@ I'm particularly interested in understanding software beyond the application lay
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UjjawalKr-01&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
